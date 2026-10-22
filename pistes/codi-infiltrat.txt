@@ -1,0 +1,3 @@
+INFORME DE SEGURETAT
+S'ha trobat un comentari sospitós a index.html.
+Busca text que comenci per <!-- i llegeix-lo amb atenció.
