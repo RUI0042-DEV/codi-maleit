@@ -1,4 +1,4 @@
-# 🎃 El codi maleït
+# 🎃 El codi maleit
 
 Benvingut/da a la investigació! La web de la Casa dels Ecos ha estat sabotejada.
 Les pistes estan repartides en diferents branques de Git.
