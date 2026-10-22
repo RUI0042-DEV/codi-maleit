@@ -1,3 +1,2 @@
-NOTA ANTIGA — NO ESBORRAR
-El quart fragment no existeix. O potser sí?
-Cerca el missatge anterior amb git log i git show.
+NOTA ANTIGA
+Aquesta nota ha estat censurada.
